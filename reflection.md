@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Hao Lian
+Sudent Email:  halian@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,6 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+1. I am not familiar with vscode now, but the instruction is very clear, so I should read instruction carefully every time.
+2. I find that I forget some codes I have learned in IST256, but this homework treat me kindly. I need to review the code again to make sure I can do better with less help next time.
+3. I learned how to complete the assignment in this course. I can check the code file in solutions when I am stucked in homework. Furthermore, I can add breakpoint in code file to use tests provided by professor.

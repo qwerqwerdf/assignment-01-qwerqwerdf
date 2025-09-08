@@ -11,4 +11,16 @@ For example, if the input is:
 The output should be:
 {'odd': [3, 5], 'even': [2, 4, 6]}
 '''
+data = {'odd': [], 'even': []}
+while True:
+    n = int(input())
+    if n == 0:
+        break
+    if n % 2 == 0:
+        data['even'].append(n)
+    else:
+        data['odd'].append(n)
+print(data)
+import json
+print(json.dumps(data))
 

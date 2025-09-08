@@ -71,7 +71,7 @@ For a `1.8` input we expect `Academic Probation` but we got `Passing`.
 3. This might be enough for you to figure out where the error is in the code under test, `gpa.py`. Let's assume its not, and thus we will use the debugger.
 4. Open `gpa.py`. We are going to debug this program and find out why an input of `1.8` does not result in `Academic Probation`
 5. Place a *breakpoint* on line 19. Do this by clicking to the left of the line. A red dot will appear.
-6. Run the program with debugging. menu => Run => Start 
+6. Run the program with debugging. menu => Run => Start
 7. In the TERMINAL, enter a gpa of `1.8`
 8. Program execution will pause on line 19. To the left of your program, you will see the variable `gpa` in the VARIABLES section. It has the value `1.8`
 9. To step through the code a line at a time press the **F10** key or menu => Run => Step Over
